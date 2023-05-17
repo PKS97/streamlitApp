@@ -1,10 +1,7 @@
-streamlit
+matplotlib
+numpy
+pandas
+plotly
+pypfopt
+seaborn
 yfinance
-copy
-numpy 
-pandas 
-plotly.express
-matplotlib.pyplot 
-pypfopt 
-datetime 
-io 
