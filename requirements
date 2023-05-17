@@ -1,0 +1,10 @@
+streamlit
+yfinance
+copy
+numpy 
+pandas 
+plotly.express
+matplotlib.pyplot 
+pypfopt 
+datetime 
+io 
